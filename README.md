@@ -9,21 +9,21 @@ Published in Proceedings of Journal of Machine Learning Research 2017.
 Step by step Guide.
 ============
 1. Preliminaries: g++, linux.
-------------
+
 2. Running the code
 
--- cd <the path of the code file>
+	-- cd <the path of the code file>
 
--- make
+	-- make
 
--- ./ssh <data set file> <query time series file> <time series length> <number of time series> <filter length> <shift size> <shingle length> <local constraint of dtw>
+	-- ./ssh <data set file> <query time series file> <time series length> <number of time series> <filter length> <shift size> <shingle length> <local constraint of dtw>
 
 3. Running example for the given dataset
 
--- cd ~/SSH
+	-- cd ~/SSH
 
--- make
+	-- make
 
--- ./ssh data query 1024 2000 100 3 15 10
+	-- ./ssh data query 1024 2000 100 3 15 10
 
 If you have any qiestions or problems regarding the code, please feel free to contact Chen Luo (cl67@rice.edu)
