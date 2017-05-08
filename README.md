@@ -9,7 +9,7 @@ Published in Proceedings of Journal of Machine Learning Research 2017.
 Step by step Guide.
 ============
 1. Preliminaries: g++, linux.
-
+------------
 2. Running the code
 
 -- cd <the path of the code file>
