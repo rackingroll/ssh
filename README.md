@@ -26,4 +26,4 @@ Step by step Guide.
 
 	-- ./ssh data query 1024 2000 100 3 15 10
 
-If you have any qiestions or problems regarding the code, please feel free to contact Chen Luo (cl67@rice.edu)
+If you have any questions or problems regarding the code, please feel free to contact Chen Luo (cl67@rice.edu)
