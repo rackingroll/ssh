@@ -12,11 +12,11 @@ Step by step Guide.
 
 2. Running the code
 
-	-- cd <the path of the code file>
+	2.1 -- cd <the path of the code file>
 
-	-- make
+	2.2 -- make
 
-	-- ./ssh <data set file> <query time series file> <time series length> <number of time series> <filter length> <shift size> <shingle length> <local constraint of dtw>
+	2.3 -- ./ssh <data set file> <query time series file> <time series length> <number of time series> <filter length> <shift size> <shingle length> <local constraint of dtw>
 
 3. Running example for the given dataset
 
