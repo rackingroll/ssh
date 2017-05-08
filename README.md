@@ -17,6 +17,6 @@ Step by step Guide.
 3. Running example for the given dataset
 -- cd ~/SSH
 -- make
--- ./ssh data query 1024 10000 100 3 15 10
+-- ./ssh data query 1024 2000 100 3 15 10
 
 If you have any qiestions or problems regarding the code, please feel free to contact Chen Luo (cl67@rice.edu)
